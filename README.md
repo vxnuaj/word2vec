@@ -260,6 +260,7 @@ print(f"Cosine Similarity between supercomputer and computer: \
 
 ```
 <br/>
+
 It's clear to see that the $\cos$ similarity works more effective over smaller $D$-dimensional spaces
 
 <br/>
